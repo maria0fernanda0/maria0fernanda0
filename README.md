@@ -1,4 +1,4 @@
-<div align="center" border="4px solid white" border-radius="4">
+<div align="center">
 
 ![Banner](./banner.png)
 
