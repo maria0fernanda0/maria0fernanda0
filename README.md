@@ -2,7 +2,7 @@
 
 ![Banner](./banner.png)
 
-
+<img src="./background.svg" width="100%"/>
 <p align="center">
   Desenvolvedora FullStack em evolução | Spring Boot | PostgreSQL | Java | HTML | CSS | JavaScript
 </p>
