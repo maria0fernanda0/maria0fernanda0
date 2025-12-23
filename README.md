@@ -71,4 +71,7 @@ margin: 20px auto;
 </a>
 </div>
 
+![snake](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
 
