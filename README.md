@@ -1,3 +1,11 @@
+<div align="center" style="
+background: linear-gradient(135deg, #5a0000, #a80000, #2b0000);
+padding: 40px;
+border-radius: 20px;
+color: white;
+">
+
+
 ![Banner](./banner.png)
 
 <h2 align="center">👋 Oi! Eu sou a Maria Fernanda!</h2>
@@ -20,3 +28,5 @@
 -  **ExcelencIA**  
   Plataforma de simulação de entrevistas com IA
   🔗 https://github.com/maria0fernanda0/Projeto-Excelencia-Start-Tech
+
+</div>
