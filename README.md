@@ -38,12 +38,37 @@ max-width: 800px;
 
 ###  Projetos em Destaque
 
--  **Meu Portifólio**  
-    Meu Portifólio pessoal
-  🔗 https://github.com/maria0fernanda0/PortifolioPessoal
 
--  **ExcelencIA**  
-  Plataforma de simulação de entrevistas com IA
-  🔗 https://github.com/maria0fernanda0/Projeto-Excelencia-Start-Tech
+<div style="
+background: rgba(0,0,0,0.4);
+padding: 20px;
+border-radius: 16px;
+max-width: 400px;
+margin: 20px auto;
+">
+<img src="https://raw.githubusercontent.com/maria0fernanda0/PortifollioPessoal/main/preview.png" width="100%" style="border-radius:12px"/>
 
+<h3> Meu Portfólio</h3>
+<p>Portfólio pessoal</p>
+<a href="https://github.com/maria0fernanda0/PortifolioPessoal">
+🔗 Ver repositório
+</a>
 </div>
+
+<div style="
+background: rgba(0,0,0,0.4);
+padding: 20px;
+border-radius: 16px;
+max-width: 400px;
+margin: 20px auto;
+">
+<img src="https://raw.githubusercontent.com/maria0fernanda0/Projeto-Excelencia-Start-Tech/main/preview.png" width="100%" style="border-radius:12px"/>
+
+<h3> ExcelencIA</h3>
+<p>Plataforma de imulação de entrevistas de emprego com auxílio de IA</p>
+<a href="https://github.com/maria0fernanda0/Projeto-Excelencia-Start-Tech">
+🔗 Ver repositório
+</a>
+</div>
+
+
