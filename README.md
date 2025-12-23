@@ -26,7 +26,7 @@
 <tr>
 <td width="420">
 
-<img src="https://maria0fernanda0/maria0fernanda0/preview.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/maria0fernanda0/maria0fernanda0/preview.png"/>
 
 <h3 align="center"> Meu Portfólio</h3>
 <p align="center">Portfólio pessoal.</p>
@@ -47,7 +47,7 @@
 <tr>
 <td width="420">
 
-<img src="https://maria0fernanda0/maria0fernanda0/preview.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/maria0fernanda0/maria0fernanda0/preview.png" />
 
 <h3 align="center">ExcelencIA</h3>
 <p align="center">
