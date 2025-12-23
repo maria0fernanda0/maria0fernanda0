@@ -12,9 +12,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: maria0fernanda0
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+          outputs:  |
+            dist/snake.svg?color_snake=#8B0000&color_dots=#2b0000,#4d0000,#800000,#b30000,#ff4d4d
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
