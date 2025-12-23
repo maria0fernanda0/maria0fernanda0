@@ -49,7 +49,7 @@
 
 <img src="https://raw.githubusercontent.com/maria0fernanda0/Projeto-Excelencia-Start-Tech/main/preview.png" width="100%"/>
 
-<h3 align="center">🩸 ExcelencIA</h3>
+<h3 align="center">ExcelencIA</h3>
 <p align="center">
 Plataforma de simulação de entrevistas de emprego com auxílio de IA.
 </p>
