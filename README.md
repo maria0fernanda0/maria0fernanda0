@@ -1,4 +1,4 @@
-<div align="center" style="
+<div align="center"  style="
 background: linear-gradient(135deg, #5a0000, #a80000, #2b0000);
 padding: 40px;
 border-radius: 20px;
@@ -24,8 +24,12 @@ max-width: 800px;
 </p>
 
 ###  Tecnologias
-
-![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,github,html,css,js)
+<p align="center">
+<img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-006400?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-800000?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maria0fernanda0&theme=blood-dark&border_radius=4&locale=pt&date_format=n%2Fj%5B%2FY%5D&card_height=217&background=45%2C210C04%2C000000)](https://git.io/streak-stats)
 
