@@ -9,7 +9,7 @@
 
   <rect width="1200" height="600" fill="url(#bg)" rx="30"/>
 
-  <text x="600" y="180" text-anchor="middle"
+  <text x="600" y="120" text-anchor="middle"
         font-size="50"
         fill="white"
         font-family="Cinzel, Garamond, serif">
