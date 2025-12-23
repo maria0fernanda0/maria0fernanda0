@@ -4,7 +4,7 @@
 
 <img src="./background.svg" width="100%"/>
 <p align="center">
-  Desenvolvedora FullStack em evolução | Spring Boot | PostgreSQL | Java | HTML | CSS | JavaScript
+  Desenvolvedora FullStack em evolução
 </p>
 
 ###  Tecnologias
@@ -22,38 +22,48 @@
 
 ###  Projetos em Destaque
 
+<table align="center">
+<tr>
+<td width="420">
 
-<div style="
-background: rgba(0,0,0,0.4);
-padding: 20px;
-border-radius: 16px;
-max-width: 400px;
-margin: 20px auto;
-">
-<img src="https://raw.githubusercontent.com/maria0fernanda0/PortifollioPessoal/main/preview.png" width="100%" style="border-radius:12px"/>
+<img src="https://raw.githubusercontent.com/maria0fernanda0/PortifolioPessoal/main/preview.png" width="100%"/>
 
-<h3> Meu Portfólio</h3>
-<p>Portfólio pessoal</p>
+<h3 align="center"> Meu Portfólio</h3>
+<p align="center">Portfólio pessoal.</p>
+
+<p align="center">
 <a href="https://github.com/maria0fernanda0/PortifolioPessoal">
 🔗 Ver repositório
 </a>
-</div>
+</p>
 
-<div style="
-background: rgba(0,0,0,0.4);
-padding: 20px;
-border-radius: 16px;
-max-width: 400px;
-margin: 20px auto;
-">
-<img src="https://raw.githubusercontent.com/maria0fernanda0/Projeto-Excelencia-Start-Tech/main/preview.png" width="100%" style="border-radius:12px"/>
+</td>
+</tr>
+</table>
 
-<h3> ExcelencIA</h3>
-<p>Plataforma de imulação de entrevistas de emprego com auxílio de IA</p>
+<br>
+
+<table align="center">
+<tr>
+<td width="420">
+
+<img src="https://raw.githubusercontent.com/maria0fernanda0/Projeto-Excelencia-Start-Tech/main/preview.png" width="100%"/>
+
+<h3 align="center">🩸 ExcelencIA</h3>
+<p align="center">
+Plataforma de simulação de entrevistas de emprego com auxílio de IA.
+</p>
+
+<p align="center">
 <a href="https://github.com/maria0fernanda0/Projeto-Excelencia-Start-Tech">
 🔗 Ver repositório
 </a>
-</div>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 <p align="center">
   <img src="https://github.com/maria0fernanda0/maria0fernanda0/blob/output/snake.svg"/>
