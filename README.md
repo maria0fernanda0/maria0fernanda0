@@ -1,20 +1,9 @@
 <div align="center">
-<img src="./background.svg" width="100%"/>
 
 ![Banner](./banner.png)
 
-<h2 align="center" style="
-font-family: 'Cinzel', 'Garamond', serif;
-font-size: 48px;
-letter-spacing: 2px;
-"> Oi! Eu sou a Maria Fernanda!</h2>
-<p align="center" style="
-font-family: 'Cinzel', 'Garamond', serif;
-font-size: 20px;
-font-weight: 300;
-opacity: 0.9;
-max-width: 800px;
-">
+<img src="./background.svg" width="100%"/>
+<p align="center">
   Desenvolvedora FullStack em evolução | Spring Boot | PostgreSQL | Java | HTML | CSS | JavaScript
 </p>
 
