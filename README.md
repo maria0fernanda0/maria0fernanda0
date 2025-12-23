@@ -71,7 +71,7 @@ margin: 20px auto;
 </a>
 </div>
 
-![snake](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/maria0fernanda0/maria0fernanda0/blob/output/github-contribution-grid-snake.svg)
 
 
 
