@@ -64,9 +64,8 @@ Plataforma de simulação de entrevistas de emprego com auxílio de IA.
 </tr>
 </table>
 
-
 <p align="center">
-  <img src="https://github.com/maria0fernanda0/maria0fernanda0/blob/output/snake.svg"/>
+<img src="https://github.com/maria0fernanda0/maria0fernanda0/blob/output/snake.svg"/>
 </p>
 
 
