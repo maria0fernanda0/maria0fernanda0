@@ -1,10 +1,5 @@
-<div align="center"  style="
-background: linear-gradient(135deg, #5a0000, #a80000, #2b0000);
-padding: 40px;
-border-radius: 20px;
-color: white;
-">
-
+<div align="center">
+<img src="./background.svg" width="100%"/>
 
 ![Banner](./banner.png)
 
