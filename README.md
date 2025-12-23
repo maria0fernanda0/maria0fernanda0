@@ -55,7 +55,9 @@ margin: 20px auto;
 </a>
 </div>
 
-![snake](https://github.com/maria0fernanda0/maria0fernanda0/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/maria0fernanda0/maria0fernanda0/blob/output/snake.svg"/>
+</p>
 
 
 
