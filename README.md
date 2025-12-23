@@ -25,10 +25,13 @@ max-width: 800px;
 
 ###  Tecnologias
 <p align="center">
-<img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-006400?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-800000?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-2B0000?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-2B0000?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2B0000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-2B0000?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-2B0000?style=for-the-badge&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-2B0000?style=for-the-badge&logo=css&logoColor=white"/>
+  
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maria0fernanda0&theme=blood-dark&border_radius=4&locale=pt&date_format=n%2Fj%5B%2FY%5D&card_height=217&background=45%2C210C04%2C000000)](https://git.io/streak-stats)
